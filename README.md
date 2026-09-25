@@ -16,9 +16,9 @@ fly out of reach.
 | J | Z | big sword button | Sword - tap for a three-hit combo |
 | K | X | roll button | Roll - you can't be hit mid-roll |
 | L | C | bow button | Hold to draw, let go to fire |
-| I | V | special button | Your hero's special move |
-| Space | Space | star button | Turn into the Super Knight when the meter is full |
-| Esc | | pause button | Pause |
+| I | V | special button (pops up when ready) | Your hero's special move |
+| Space | Space | star button (pops up when ready) | Turn into the Super Knight when the meter is full |
+| Esc | | pause button | Pause - shows every move you know |
 
 A game controller works too.
 
@@ -26,6 +26,9 @@ On a tablet, use **Add to Home Screen** in the browser's menu and the game
 opens full screen, like an app.
 
 ## Things to know
+
+- **New moves arrive as you go:** the bow when the first Sky Biter shows
+  up, your hero's special after the first boss.
 
 - **Two heroes, two styles.** Leif's **Shield Lunge** charges in behind his
   shield; Rose's **Whirl Away** spins her back out of danger, hitting
