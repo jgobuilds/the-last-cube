@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1790334154|10885958';
+const CACHE_VERSION = '1790334413|10768298';
 /** @type {string} */
 const CACHE_PREFIX = 'The Last Cube-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
