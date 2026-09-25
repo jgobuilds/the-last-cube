@@ -18,9 +18,9 @@ fly out of reach.
 | --- | --- | --- | --- |
 | W A S D | arrows | joystick (left thumb, anywhere) | Move |
 | J | Z | big sword button | Sword - tap for a three-hit combo |
-| K | X | roll button | Roll - you can't be hit mid-roll |
-| L | C | bow button | Hold to draw, let go to fire |
-| I | V | special button (pops up when ready) | Your hero's special move |
+| K | X | roll button | Roll - you can't be hit mid-roll. Hold up or down to roll that way |
+| L | C | bow button | Bow - tap to fire; walk over fallen arrows to pick them up |
+| I | V | special button (pops up when ready) | Your hero's special move - hold up or down to aim it |
 | Space | Space | star button (pops up when ready) | Turn into the Super Knight when the meter is full |
 | Esc | | pause button | Pause - shows every move you know, and Quit to title |
 
