@@ -78,7 +78,8 @@ swipe back or press Home on Android.
   each hero earns their own skin, power and weapon, round by round.
 - **Survival** opens once you've saved your friend too (press **More**). The **Wardrobe** has
   skins, hats, capes and silly weapons - a fish, a rubber chicken...
-- Every level hides one golden cube... find them all (or every star) for a
+- **A treasure hunt:** every level hides one golden cube, with a clue on
+  the map (and a hint if you miss it). Find them all (or every star) for a
   **secret level**.
 
 ## What we learned
