@@ -73,7 +73,10 @@ swipe back or press Home on Android.
 - **The Sticker Book.** Beat each bad guy once to collect its sticker.
 - **Rewards after every boss** - and rare gold cards with new powers.
 - **Gems** go in the bank for the shop, even if you lose.
-- **Survival** opens once you've saved your friend. The **Wardrobe** has
+- **New Game+** opens once you've saved your friend: play again keeping
+  every power-up, against gold ELITES and two bosses at every cage - and
+  each hero earns their own skin, power and weapon, round by round.
+- **Survival** opens once you've saved your friend too (press **More**). The **Wardrobe** has
   skins, hats, capes and silly weapons - a fish, a rubber chicken...
 - Every level hides one golden cube... find them all (or every star) for a
   **secret level**.
