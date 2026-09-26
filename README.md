@@ -47,19 +47,27 @@ swipe back or press Home on Android.
 
 - **New moves arrive as you go:** the bow when the first Sky Biter shows
   up, your hero's special after the first boss.
-- **Two heroes, two styles.** Leif's **Shield Lunge** charges in behind his
-  shield; Rose's **Whirl Away** spins her back out of danger, hitting
-  everyone around her. Each hero has their own path of upgrades.
+- **Two heroes, two styles.** Leif's **Shield Throw** bounces from bad guy
+  to bad guy and back to his hand; Rose's **Whirl Away** spins her back out
+  of danger, hitting everyone around her. Each hero has their own path of
+  upgrades.
+- **The bow is for Sky Biters.** Every tap fires - but a boss swats arrows
+  away from the front. Get behind it!
+- **Every boss brings a new trick**, and they get tougher the stronger you
+  are - the last one uses them all.
 - **Watch the floor.** Yellow stripes show where an attack will land. Roll
   through them just as it hits for a **PERFECT** dodge.
 - **Stars.** Up to three per level - the three goals sit in the top right
   as you play. Can you get all 18?
-- **Take a bad guy's power.** Grab the glowing orb some of them drop.
+- **Take a bad guy's power.** Grab the glowing orb some of them drop -
+  the Charger's lets you ride on its shoulders!
+- **The Sticker Book.** Beat each bad guy once to collect its sticker.
 - **Rewards after every boss** - and rare gold cards with new powers.
 - **Gems** go in the bank for the shop, even if you lose.
-- **Survival** and the **Wardrobe** (skins, hats and capes) open up once
-  you've saved your friend.
-- Every level hides one golden cube...
+- **Survival** opens once you've saved your friend. The **Wardrobe** has
+  skins, hats, capes and silly weapons - a fish, a rubber chicken...
+- Every level hides one golden cube... find them all (or every star) for a
+  **secret level**.
 
 ## What we learned
 
