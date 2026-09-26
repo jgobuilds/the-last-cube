@@ -8,8 +8,10 @@
 
 Scan it with a phone or tablet camera to play.
 
-A blocky beat-'em-up. Your friend has been taken - fight through six levels,
-beat six bosses, and save them. Sword up close, bow for the Sky Biters that
+A blocky beat-'em-up. Long ago, magic golden cubes kept the land safe -
+until the Cube King smashed them all but one. Your friend carries **the
+Last Cube**, and the Kidnapper has taken them! Fight through six levels and
+six bosses to get them back. Sword up close, bow for the Sky Biters that
 fly out of reach.
 
 ## How to play
@@ -51,6 +53,13 @@ swipe back or press Home on Android.
   to bad guy and back to his hand; Rose's **Whirl Away** spins her back out
   of danger, hitting everyone around her. Each hero has their own path of
   upgrades.
+- **Combos.** Roll, then swing straight away: **Roll Slash**. Sword,
+  sword, then your special: **Combo Finisher**.
+- **The map of the six lands** between levels - replay any land you have
+  beaten for more stars.
+- **Die mid-level?** You try again from the fight you were in.
+- **Settings** in the pause menu: volume, reduce flashing, bigger touch
+  buttons, and difficulty - change it any time.
 - **The bow is for Sky Biters.** Every tap fires - but a boss swats arrows
   away from the front. Get behind it!
 - **Every boss brings a new trick**, and they get tougher the stronger you
